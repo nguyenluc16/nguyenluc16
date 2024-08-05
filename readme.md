@@ -1,11 +1,21 @@
-<h1 align="center">Hi 👋, I'm Nguyen Hieu Luc</h1>
+<h1 align="center">Hi there, I'm Nguyen Hieu Luc</h1>
 <h3 align="center">Graduated in Control and Automation Engineering with a passion for software development!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenluc16&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenluc16" /> </p>
 
+## More about Me
+- Actively developing my expertise in embedded systems and C++ programming.
+- Always keen to learn and explore new technologies.
+- Currently working as a software engineer at [FPT Software].
+- You can reach me at [**lucxuki38@gmail.com**]
 
+## Skills 🛠️
 
-- 📫 How to reach me **lucxuki38@gmail.com**
+- **Languages:** Embedded C, C++
+- **Development Tools:** Visual Studio Code, Keil C, Git, Arduino IDE, ESP IDF
+- **Operating Systems:** Windows, Linux
+- **Frameworks/Libraries:** ROS
+- **Soft Skills:** Teamwork, self-learning, working under pressure, problem-solving
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
