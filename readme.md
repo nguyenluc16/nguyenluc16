@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Nguyen Hieu Luc</h1>
 <h3 align="center">Graduated in Control and Automation Engineering (HUST) with a passion for software development!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenluc16&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenluc16" /> </p>
-
 ## More about Me
 - Actively developing my expertise in embedded systems and C++ programming.
 - Always keen to learn and explore new technologies.
@@ -45,8 +43,8 @@
   - https://github.com/nguyenluc16/Cute-Autonomous-Agricultural-Data-Collection-Vehicle
  
 - **Media Player Power by Cpp**
-  - **Description:** 
-  - **Technologies:** 
+  - **Description:** On working. . . 
+  - **Technologies:** On working. . .
   - On working. . .
 ## Currently Working On
 
