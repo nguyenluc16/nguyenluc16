@@ -43,9 +43,9 @@
   - https://github.com/nguyenluc16/Cute-Autonomous-Agricultural-Data-Collection-Vehicle
  
 - **Media Player Power by Cpp**
-  - **Description:** On working. . . 
-  - **Technologies:** On working. . .
-  - On working. . .
+  - **Description:** A cross-platform multimedia player supporting audio, video, and image playback with playlist management and metadata editing. Built using the MVC architecture and multithreading for smooth performance.
+  - **Technologies:** C++17, Qt 6.7, TagLib, SDL2, Linux.
+  - On working
 ## Currently Working On
 
 - **Exploring Embedded Systems:** Enhancing my skills in embedded systems development, focusing on MCU programming and multi thread, real-time operating systems.
