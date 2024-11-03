@@ -37,7 +37,7 @@
   - **Technologies:** Visual Studio, Arduino IDE, ESP IDF, GitHub, Thingspeak, Thingboard, C/C++
   - https://github.com/nguyenluc16/WSN
 
-- **AGV Autonomous Vehicle for Agricultural Environment Monitoring** (Jan 2023 – May 2023)
+- **Cute AGV Autonomous Vehicle for Agricultural Environment Monitoring** (Jan 2023 – May 2023)
   - **Description:** Designed and implemented an autonomous vehicle for agricultural data collection using SLAM, DWA, and ALS algorithms.
   - **Technologies:** Visual Studio, Arduino IDE, ESP IDF, GitHub, Blynk, ROS, C/C++
   - https://github.com/nguyenluc16/Cute-Autonomous-Agricultural-Data-Collection-Vehicle
