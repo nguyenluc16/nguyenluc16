@@ -45,7 +45,10 @@
 - **Media Player Power by Cpp**
   - **Description:** A cross-platform multimedia player supporting audio, video, and image playback with playlist management and metadata editing. Built using the MVC architecture and multithreading for smooth performance.
   - **Technologies:** C++17, Qt 6.7, TagLib, SDL2, Linux.
-  - On working
+- **Develop Driver Module for Linux**
+  - Description: Developing a Linux kernel driver module for efficient hardware-software communication, focusing on managing low-level hardware interactions. The module supports integration with user-space applications and ensures optimized performance and resource management on Linux systems.
+  - Technologies: C (embedded), Linux kernel development.
+  - Status: In progress.
 ## Currently Working On
 
 - **Exploring Embedded Systems:** Enhancing my skills in embedded systems development, focusing on MCU programming and multi thread, real-time operating systems.
