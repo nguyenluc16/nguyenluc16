@@ -12,7 +12,7 @@
 - **Languages:** Embedded C, C++
 - **Development Tools:** Visual Studio Code, Keil C, Git, Arduino IDE, ESP IDF
 - **Operating Systems:** Windows, Linux
-- **Frameworks/Libraries:** ROS
+- **Frameworks/Libraries:** ROS, Uboot, Linux Kernel
 - **Soft Skills:** Teamwork, self-learning, working under pressure, problem-solving
 
 <h3 align="left">Connect with me:</h3>
