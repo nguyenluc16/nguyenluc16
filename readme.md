@@ -45,8 +45,8 @@
 - **Media Player Power by Cpp**
   - **Description:** A cross-platform multimedia player supporting audio, video, and image playback with playlist management and metadata editing. Built using the MVC architecture and multithreading for smooth performance.
   - **Technologies:** C++17, Qt 6.7, TagLib, SDL2, Linux.
-- **Develop Driver Module for Linux**
-  - Description: Developing a Linux kernel driver module for efficient hardware-software communication, focusing on managing low-level hardware interactions. The module supports integration with user-space applications and ensures optimized performance and resource management on Linux systems.
+- **Develop I2C Driver Module for Linux**
+  - Description: This project involves creating a Linux kernel driver module to enable efficient communication using the I2C protocol. The driver will serve as an intermediary between user-space applications and the underlying I2C hardware, abstracting away the low-level details.
   - Technologies: C (embedded), Linux kernel development.
   - Status: In progress.
 ## Currently Working On
