@@ -49,6 +49,8 @@
   - Description: This project involves creating a Linux kernel driver module to enable efficient communication using the I2C protocol. The driver will serve as an intermediary between user-space applications and the underlying I2C hardware, abstracting away the low-level details.
   - Technologies: C (embedded), Linux kernel development.
   - Status: In progress.
+- **Develop Linux/Uboot/ATF etc** 
+  
 ## Currently Working On
 
 - **Exploring Embedded Systems:** Enhancing my skills in embedded systems development, focusing on MCU programming and multi thread, real-time operating systems.
