@@ -1,72 +1,148 @@
-<h1 align="center">Hi there, I'm Nguyen Hieu Luc</h1>
-<h3 align="center">Graduated in Control and Automation Engineering (HUST) with a passion for software development!</h3>
+<h1 align="center">Hi, I'm Nguyen Hieu Luc</h1>
+<h3 align="center">Embedded Linux / BSP Engineer | Linux Kernel | Bootloader | Driver Development</h3>
 
-## More about Me
-- Actively developing my expertise in embedded systems and C++ programming.
-- Always keen to learn and explore new technologies.
-- Currently working as a software engineer at [FPT Software].
-- You can reach me at [**lucxuki38@gmail.com**]
+---
 
-## Skills
+## 🧠 About Me
 
-- **Languages:** Embedded C, C++
-- **Development Tools:** Visual Studio Code, Keil C, Git, Arduino IDE, ESP IDF
-- **Operating Systems:** Windows, Linux
-- **Frameworks/Libraries:** ROS, Uboot, Linux Kernel
-- **Soft Skills:** Teamwork, self-learning, working under pressure, problem-solving
+- Embedded Linux / BSP Engineer with 2+ years of experience in system-level development  
+- Strong background in Linux Kernel, Bootloader (U-Boot, ATF), and device driver integration  
+- Hands-on experience in BSP development, hardware bring-up, and full boot chain debugging  
+- Experienced in working with SPI Flash, WLAN, USB, and power management subsystems  
+- Familiar with Buildroot, cross-compilation toolchains, and CI/CD automation  
 
-<h3 align="left">Connect with me:</h3>
+- Passionate about low-level systems, performance optimization, and embedded architecture  
+
+---
+
+## 💼 Professional Experience
+
+### **BSP Engineer – FPT Software (Konica Minolta - KMI)**
+
+- Developed and maintained Board Support Package (BSP) for embedded Linux systems  
+- Upgraded Linux kernel from **4.4.8 → 5.10.205**  
+- Worked on full boot chain: **BootROM → ATF → U-Boot → Linux Kernel**  
+- Integrated and debugged drivers: **SPI Flash, WLAN, USB Hub, PMU**  
+- Implemented **Secure Boot** and secure chip integration  
+- Customized Linux distribution using **Buildroot**  
+- Developed automation scripts for build & release using **Jenkins (CI/CD)**  
+- Debugged system-level issues: kernel panic, boot failure, driver conflicts  
+
+---
+
+## 🛠️ Core Skills
+
+### Embedded Linux / BSP
+- Linux Kernel, Device Drivers  
+- Bootloader: U-Boot, ATF  
+- Buildroot, Cross-compilation  
+- Secure Boot, System Initialization  
+- Hardware Bring-up  
+
+### Programming
+- C, C++, Embedded C  
+- Shell scripting (Bash)  
+- Basic Python  
+
+### Hardware & Interfaces
+- SPI, I2C, UART, USB, PCIe, I2S  
+- LPDDR4 tuning, PMU  
+
+### Debugging
+- dmesg, system logs  
+- Kernel debugging (basic)  
+- System-level issue analysis  
+
+### Tools
+- Git, Jenkins, CI/CD  
+- VS Code, Keil, ESP-IDF  
+
+---
+
+## 🚀 Projects
+
+---
+
+### 🔥 Colorbot – Computer Vision + HID Embedded System
+
+- Designed a real-time computer vision system using OpenCV (HSV filtering, contour detection)  
+- Implemented screen capture pipeline and object detection logic  
+- Developed low-latency communication between Python and Arduino via Serial  
+- Built HID mouse emulation using Arduino Leonardo (ATmega32u4)  
+- Integrated USB Host Shield for peripheral interaction  
+- Implemented VID/PID spoofing for device-level abstraction  
+- Optimized detection pipeline for performance and responsiveness  
+
+**Tech:** Python, OpenCV, PySerial, Arduino C, HID, USB  
+
+---
+
+### 🔥 CLI Media Browser/Player for Linux (C++ | Multithreading)
+
+- Designed CLI-based media system using MVC architecture  
+- Integrated SDL2 for playback and TagLib for metadata handling  
+- Implemented multithreaded playback using POSIX threads  
+- Built playlist management and metadata editing features  
+- Supported file browsing from internal storage and external USB  
+- Developed CLI command parser  
+
+**Tech:** C++, SDL2, TagLib, POSIX Threads, Linux  
+
+---
+
+### 🔥 Embedded Linux BSP Development
+
+- Worked on Linux Kernel, U-Boot, and ATF customization  
+- Developed and debugged I2C driver module (in progress)  
+- Performed system bring-up and debugging across boot chain  
+- Worked with hardware interfaces: SPI, I2C, USB  
+
+**Tech:** C, Linux Kernel, U-Boot, ATF  
+
+---
+
+### 🔥 Cute AGV Autonomous Vehicle (Embedded + ROS)
+
+- Developed STM32-based motor control system (PID)  
+- Integrated LiDAR and environmental sensors  
+- Implemented UART communication with Linux system (ROS)  
+- Applied SLAM and path planning algorithms  
+
+**Tech:** STM32, ROS, C/C++  
+
+---
+
+## 📫 Contact
+
+- Email: **lucxuki38@gmail.com**  
+- LinkedIn: https://linkedin.com/in/lucnguyenhieu  
+
+---
+
+## 📊 GitHub Stats
+
 <p align="left">
-<a href="https://linkedin.com/in/lucnguyenhieu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucnguyenhieu" height="30" width="40" /></a>
-<a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lucnh8" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@luc.ieee802.11ax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="luc.ieee802.11ax" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenluc16&show_icons=true&locale=en&layout=compact" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyenluc16&show_icons=true&locale=en" />
+</p>
 
-## Projects 🚀
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenluc16" />
+</p>
 
-- **Multi-band Microstrip Antenna for 5G mmWave Application** (May 2022 – Oct 2022)
-  - My first project was related to Telecommunication Electronics My first project was related to Telecommunication electronics but applied algorithms to optimize design in matlab.
-  - **Description:** Designed a multi-band microstrip antenna to optimize reflection coefficient and gain for 5G mmWave applications.
-  - **Technologies:** MATLAB, HFSS, CST
+---
 
-- **Humidity and Temperature Measuring/Monitoring for Smart Farming** (Jan 2023 – May 2023)
-  - **Description:** Developed a wireless sensor network for real-time monitoring and analysis of environmental data in smart farming.
-  - **Technologies:** Visual Studio, Arduino IDE, ESP IDF, GitHub, Thingspeak, Thingboard, C/C++
-  - https://github.com/nguyenluc16/WSN
+## ⚡ Additional Highlights
 
-- **Cute AGV Autonomous Vehicle for Agricultural Environment Monitoring** (Jan 2023 – May 2023)
-  - **Description:** Designed and implemented an autonomous vehicle for agricultural data collection using SLAM, DWA, and ALS algorithms.
-  - **Technologies:** Visual Studio, Arduino IDE, ESP IDF, GitHub, Blynk, ROS, C/C++
-  - https://github.com/nguyenluc16/Cute-Autonomous-Agricultural-Data-Collection-Vehicle
- 
-- **Media Player Power by Cpp**
-  - **Description:** A cross-platform multimedia player supporting audio, video, and image playback with playlist management and metadata editing. Built using the MVC architecture and multithreading for smooth performance.
-  - **Technologies:** C++17, Qt 6.7, TagLib, SDL2, Linux.
-- **Develop I2C Driver Module for Linux**
-  - Description: This project involves creating a Linux kernel driver module to enable efficient communication using the I2C protocol. The driver will serve as an intermediary between user-space applications and the underlying I2C hardware, abstracting away the low-level details.
-  - Technologies: C (embedded), Linux kernel development.
-  - Status: In progress.
-- **Develop Linux/Uboot/ATF etc** 
-  
-## Currently Working On
+- Experience debugging across full system stack:  
+  **Bootloader → Kernel → Driver → User space**  
 
-- **Exploring Embedded Systems:** Enhancing my skills in embedded systems development, focusing on MCU programming and multi thread, real-time operating systems.
-- **Advanced C++ Development:** Delving deeper into C++ for advanced applications, including data structures, algorithms, and OOP principles.
+- Strong understanding of:
+  - Embedded Linux architecture  
+  - Hardware-software integration  
+  - Cross-compilation toolchains  
 
-## Fun Facts 
-
-- I'm an avid traveler with a passion for discovering new culinary delights. 
-- In my downtime, I find joy in creating music with FL Studio, exploring melodies on instruments like the piano and violin, and delving into traditional sounds with the bamboo flute and dan tranh.
-- I also enjoy unwinding with video games and cherishing the tranquility of rural landscapes, surrounded by lush greenery and breathtaking sunsets.
-
-## Let's Connect! 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenluc16&show_icons=true&locale=en&layout=compact" alt="nguyenluc16" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenluc16&show_icons=true&locale=en" alt="nguyenluc16" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenluc16&" alt="nguyenluc16" /></p>
+---
