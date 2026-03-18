@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nguyen Hieu Luc</h1>
 <h3 align="center">Embedded Linux / BSP Engineer | Linux Kernel | Bootloader | Driver Development</h3>
-
+<h3 align="center">Graduated in Control and Automation Engineering (HUST) with a passion for software development!</h3>
 ---
 
 ## 🧠 About Me
